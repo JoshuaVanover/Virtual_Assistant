@@ -1,5 +1,5 @@
 @ECHO OFF
 
-python -m venv virtaenv
+python -m venv
 
 pause
