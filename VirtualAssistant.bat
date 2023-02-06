@@ -1,6 +1,6 @@
 @ECHO OFF
 
-call virtaenv\Scripts\activate.bat
+call venv\Scripts\activate.bat
 
 main.py
 
